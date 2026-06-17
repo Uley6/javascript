@@ -4,7 +4,7 @@ import { fib } from './lab2.js';
  * Возвращает дробную часть числа, округленную до двух знаков после запятой.
  * Корректно обрабатывает отрицательные числа.
  * 
- * @param {number} num - Исходное число.
+ * @param {number} num - Исходное число. 
  * @returns {number} Дробная часть числа.
  */
 export function getDecimal(num) {
